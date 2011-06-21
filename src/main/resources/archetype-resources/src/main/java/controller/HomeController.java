@@ -1,4 +1,7 @@
-package com.force.sample.controller;
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+package ${package}.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
