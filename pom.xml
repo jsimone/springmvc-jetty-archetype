@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.force.sdk</groupId>
-  <artifactId>springmvc-archetype</artifactId>
-  <version>22.0.0-BETA</version>
+  <artifactId>springmvc-jetty-archetype</artifactId>
+  <version>22.0.2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
-  <name>springmvc-archetype</name>
+  <name>springmvc-jetty-archetype</name>
 
   <distributionManagement>
     <repository>
